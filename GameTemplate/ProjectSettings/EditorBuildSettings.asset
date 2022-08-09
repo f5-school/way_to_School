@@ -5,12 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MainMenu.unity
     guid: bc43bc8b854767647948b52f3058d39a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene2D.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/S1-Restaurant.unity
+    guid: 02a0b35902588ea4fa34aea778745f31
+  - enabled: 1
+    path: Assets/Scenes/S2-SJ_room.unity
+    guid: 72bf8d45f2cd24544a80dc6239df6162
+  - enabled: 1
+    path: Assets/Scenes/S3-Classroom.unity
+    guid: 4b318206d4981a348aa9f8801d30fab3
+  - enabled: 1
+    path: Assets/Scenes/S4-WJ_door.unity
+    guid: 606a85a3721aef84b969b6f036dfde9d
+  - enabled: 1
+    path: Assets/Scenes/S5-WJ_room.unity
+    guid: 89186a447cf1b994c91078ec0a749c70
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7d08b87ae645fbe43b65157427ea17e6,
       type: 2}
