@@ -10,7 +10,6 @@ public class ChangeScene : MonoBehaviour
 		SceneManager.LoadScene(nextScene);
 	}
 
-
     // Start is called before the first frame update
     void Start()
     {
