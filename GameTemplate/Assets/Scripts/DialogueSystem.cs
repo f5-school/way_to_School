@@ -22,11 +22,12 @@ public class DialogueSystem : MonoBehaviour
 	public Animator anim_sujeong;
 	public Animator anim_other;
 
-	public bool isFinish = false; // 이 값은 아직 진행 중이라 미완성입니다..! 
+	public int finishedCount = 0;
 
 	public void Begin(Dialogue info) {
 		anim_window.SetBool("isOpen", true);
-		
+		anim_window.SetBool("saidSujeong", true);
+
 		names.Clear();
 		sprites_sujeong.Clear();
 		sprites_other.Clear();
@@ -82,6 +83,12 @@ public class DialogueSystem : MonoBehaviour
 		anim_sujeong.SetBool("isOpen", sj_open);
 		anim_other.SetBool("isOpen", other_open);
 
+		if (sj_open) {
+			anim_window.SetBool("saidSujeong", true);
+		} else {
+			anim_window.SetBool("saidSujeong", false);
+		}
+
 		foreach (var letter in sentence) {
 			txtSentence.text += letter;
 			yield return new WaitForSeconds(0.0001f); // 한 글자 출력하고 0.0001초씩 대기
@@ -98,6 +105,6 @@ public class DialogueSystem : MonoBehaviour
 		sujeong.sprite = null;
 		txtSentence.text = string.Empty;
 
-		isFinish = true; // 이 값은 아직 진행 중이라 미완성입니다..! 
+		finishedCount++;
 	}
 }
