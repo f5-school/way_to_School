@@ -1,4 +1,4 @@
-// ´ëÈ­Ã¢¿¡ ´ëÇÑ ÄÚµå
+// ëŒ€í™”ì°½ì— ëŒ€í•œ ì½”ë“œ
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -91,7 +91,7 @@ public class S1_DialogueSystem : MonoBehaviour
 
 		foreach (var letter in sentence) {
 			txtSentence.text += letter;
-			yield return new WaitForSeconds(0.0001f); // ÇÑ ±ÛÀÚ Ãâ·ÂÇÏ°í 0.0001ÃÊ¾¿ ´ë±â
+			yield return new WaitForSeconds(0.0001f); // í•œ ê¸€ì ì¶œë ¥í•˜ê³  0.0001ì´ˆì”© ëŒ€ê¸°
 		}
 	}
 

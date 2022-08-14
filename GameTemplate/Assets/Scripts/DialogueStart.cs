@@ -1,4 +1,4 @@
-// ¼öÁ¤ÀÌ Æ÷ÇÔ ¿©·¯ ¸íÀÌ ´ëÈ­ÇÒ ¶§ ´ëÈ­Ã¢ ½ÃÀÛÇÏ´Â ÄÚµå
+ï»¿// ìˆ˜ì •ì´ í¬í•¨ ì—¬ëŸ¬ ëª…ì´ ëŒ€í™”í•  ë•Œ ëŒ€í™”ì°½ ì‹œì‘í•˜ëŠ” ì½”ë“œ
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,4 +1,4 @@
-// Scene2 - ´ëÈ­Ã¢ ½ÃÀÛ & ¼ø¼­¿¡ µû¶ó °è¼Ó ÁøÇàÇÏ´Â ÄÚµå
+// Scene2 - ëŒ€í™”ì°½ ì‹œì‘ & ìˆœì„œì— ë”°ë¼ ê³„ì† ì§„í–‰í•˜ëŠ” ì½”ë“œ
 using System.Collections; 
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,9 +9,9 @@ public class S2_DialogueStart : MonoBehaviour
 
 	public S2_DialogueSystem system;
 
-	public Animator anim_folderphone;  // Æú´õÆù
-	public Animator anim_speechBubble, // ¾ö¸¶°¡ "¼öÁ¤¾Æ~~" ºÎ¸£´Â ¸»Ç³¼±
-		            anim_schoolName;   // ¼ö·æÁßÇĞ±³ ¸íÆĞ
+	public Animator anim_folderphone;  // í´ë”í°
+	public Animator anim_speechBubble, // ì—„ë§ˆê°€ "ìˆ˜ì •ì•„~~" ë¶€ë¥´ëŠ” ë§í’ì„ 
+		            anim_schoolName;   // ìˆ˜ë£¡ì¤‘í•™êµ ëª…íŒ¨
 	public Animator anim_nextSpot;
 
 	public SpriteRenderer background_image;
@@ -36,7 +36,7 @@ public class S2_DialogueStart : MonoBehaviour
 			anim_speechBubble.SetBool("isOpen", true);
 		}
 
-		// µî±³ÇÏ´Â ±æ
+		// ë“±êµí•˜ëŠ” ê¸¸
 		if (system.finishedCount == 3) {
 			anim_speechBubble.SetBool("isOpen", false);
 			background_image.sprite = wayToSchool;

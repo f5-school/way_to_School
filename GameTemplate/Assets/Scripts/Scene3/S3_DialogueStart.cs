@@ -1,4 +1,4 @@
-// Scene3 - ´ëÈ­Ã¢ ½ÃÀÛ & ¼ø¼­¿¡ µû¶ó °è¼Ó ÁøÇàÇÏ´Â ÄÚµå
+// Scene3 - ëŒ€í™”ì°½ ì‹œì‘ & ìˆœì„œì— ë”°ë¼ ê³„ì† ì§„í–‰í•˜ëŠ” ì½”ë“œ
 using System.Collections; 
 using System.Collections.Generic;
 using UnityEngine;
