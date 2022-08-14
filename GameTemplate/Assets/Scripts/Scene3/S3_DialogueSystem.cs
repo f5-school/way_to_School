@@ -1,9 +1,9 @@
-// 대화창에 대한 코드
+// 대화창 자체에 대한 코드
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-public class S1_DialogueSystem : MonoBehaviour
+public class S3_DialogueSystem : MonoBehaviour
 {
 	public Text txtName;
 	public Image sujeong;
