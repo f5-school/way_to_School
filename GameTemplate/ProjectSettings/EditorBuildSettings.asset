@@ -20,9 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S3-Classroom.unity
     guid: 5114d28696db09c49a8c76888816d7fb
-  - enabled: 1
-    path: Assets/Scenes/S4-WJ_Home.unity
-    guid: 9027281750c6a694a8430a2951272658
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7d08b87ae645fbe43b65157427ea17e6,
       type: 2}

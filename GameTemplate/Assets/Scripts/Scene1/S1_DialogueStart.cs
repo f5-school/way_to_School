@@ -1,4 +1,4 @@
-// Scene1 - ëŒ€í™”ì°½ ì‹œì‘ & ìˆœì„œì— ë”°ë¼ ê³„ì† ì§„í–‰í•˜ëŠ” ì½”ë“œ
+// Scene1 - ´ëÈ­Ã¢ ½ÃÀÛ & ¼ø¼­¿¡ µû¶ó °è¼Ó ÁøÇàÇÏ´Â ÄÚµå
 using System.Collections; 
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,9 +9,9 @@ public class S1_DialogueStart : MonoBehaviour
 
 	public S1_DialogueSystem system;
 
-	public Animator anim_image;      // ë§ˆë¦¬ ì´ë¯¸ì§€
-	public Animator anim_after1hour, // ì‹ë‹¹ì—ì„œ ì§‘ ê°ˆ ë•Œì˜ ë‚˜ë ˆì´ì…˜
-		            anim_smartphone; // ìˆ˜ì •ì´ì§‘(ë¯¸ë˜)ì—ì„œ ì ë“¤ê¸° ì´ì „ ìŠ¤ë§ˆíŠ¸í°
+	public Animator anim_image;      // ¸¶¸® ÀÌ¹ÌÁö
+	public Animator anim_after1hour, // ½Ä´ç¿¡¼­ Áı °¥ ¶§ÀÇ ³ª·¹ÀÌ¼Ç
+		            anim_smartphone; // ¼öÁ¤ÀÌÁı(¹Ì·¡)¿¡¼­ Àáµé±â ÀÌÀü ½º¸¶Æ®Æù
 	public Animator anim_nextSpot;
 
 	public SpriteRenderer background_image;
@@ -37,7 +37,7 @@ public class S1_DialogueStart : MonoBehaviour
 			anim_after1hour.SetBool("isOpen", true);
 		}
 
-		// ìˆ˜ì •ì´ì˜ ì§‘(ë¯¸ë˜)
+		// ¼öÁ¤ÀÌÀÇ Áı(¹Ì·¡)
 		if (system.finishedCount == 3) {
 			anim_after1hour.SetBool("isOpen", false);
 			background_image.sprite = sj_current_room;

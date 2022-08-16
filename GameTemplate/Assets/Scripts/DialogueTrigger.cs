@@ -1,4 +1,4 @@
-// ë²„íŠ¼ í´ë¦­ ì‹œ ëŒ€í™” ì‹œì‘í•˜ê²Œ í•˜ëŠ” ì½”ë“œ
+// ¹öÆ° Å¬¸¯ ½Ã ´ëÈ­ ½ÃÀÛÇÏ°Ô ÇÏ´Â ÄÚµå
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,7 +8,7 @@ public class DialogueTrigger : MonoBehaviour
 	public Dialogue info;
 
 	public void Trigger() {
-		var system = FindObjectOfType<DialogueSystem>(); // íƒ€ì… DialogueSystemì€ ìƒí™©ì— ë§ê²Œ ë³€ê²½í•´ì„œ ê° Scene í´ë”ì— ë³µë¶™í•˜ê¸°
+		var system = FindObjectOfType<DialogueSystem>(); // Å¸ÀÔ DialogueSystemÀº »óÈ²¿¡ ¸Â°Ô º¯°æÇØ¼­ °¢ Scene Æú´õ¿¡ º¹ºÙÇÏ±â
 		system.Begin(info);
 	}
 }

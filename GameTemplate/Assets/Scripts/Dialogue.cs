@@ -8,8 +8,8 @@ public class Dialogue
 	public List<string> names;
 	public List<Sprite> sprites_sujeong;
 	public List<Sprite> sprites_other;
-	public List<bool> open_sj;         // ê²Œì„ ì°½ì—ì„œ ìˆ˜ì •ì´ ì¸ë¬¼ ì´ë¯¸ì§€ê°€ ë‚˜íƒ€ë‚˜ëŠ”ì§€ ì—¬ë¶€
-	public List<bool> open_other;      // ê²Œì„ ì°½ì—ì„œ ë‹¤ë¥¸ ì¸ë¬¼ ì´ë¯¸ì§€ê°€ ë‚˜íƒ€ë‚˜ëŠ”ì§€ ì—¬ë¶€
+	public List<bool> open_sj;         // °ÔÀÓ Ã¢¿¡¼­ ¼öÁ¤ÀÌ ÀÎ¹° ÀÌ¹ÌÁö°¡ ³ªÅ¸³ª´ÂÁö ¿©ºÎ
+	public List<bool> open_other;      // °ÔÀÓ Ã¢¿¡¼­ ´Ù¸¥ ÀÎ¹° ÀÌ¹ÌÁö°¡ ³ªÅ¸³ª´ÂÁö ¿©ºÎ
 	
 	[TextArea]
 	public List<string> sentences;
