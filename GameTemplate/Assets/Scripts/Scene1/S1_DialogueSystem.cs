@@ -1,4 +1,4 @@
-// 대화창에 대한 코드
+// 수정이 포함 여러 명이 대화할 때 대화창에 대한 코드
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

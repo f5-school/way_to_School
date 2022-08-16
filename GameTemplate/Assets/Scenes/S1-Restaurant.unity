@@ -875,7 +875,7 @@ GameObject:
   - component: {fileID: 475244433}
   - component: {fileID: 475244432}
   m_Layer: 5
-  m_Name: After1hour
+  m_Name: NextBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2040,8 +2040,8 @@ MonoBehaviour:
     - "\"\uB9DE\uC544 \uB098\uB3C4.. \uC6B0\uB9AC \uC131\uACF5\uD558\uC790^^\""
   system: {fileID: 276542625}
   anim_image: {fileID: 1929830221}
-  anim_after1hour: {fileID: 475244433}
-  anim_smartphone: {fileID: 1526190436}
+  NextDialogue1: {fileID: 475244433}
+  NextDialogue2: {fileID: 1526190436}
   anim_nextSpot: {fileID: 1614251022}
   background_image: {fileID: 1697554349}
   sj_current_room: {fileID: 21300000, guid: c41655ae4b286a0489945f0b0ac21ff0, type: 3}
