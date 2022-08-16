@@ -152,7 +152,7 @@ Animator:
   m_GameObject: {fileID: 31312622}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0e050a615ecd598428676f7ae87e0dd1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 0258a31a14a8def448ac04c7aad59844, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1288,7 +1288,7 @@ Animator:
   m_GameObject: {fileID: 1182383962}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a86bb6e28f526d64a8fdf66158d58050, type: 2}
+  m_Controller: {fileID: 9100000, guid: 61b6513e0207fbc498ab602bce7a732f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1346,7 +1346,7 @@ Animator:
   m_GameObject: {fileID: 1310203804}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e1a31be5ae55a294baf5b914817446a8, type: 2}
+  m_Controller: {fileID: 9100000, guid: 54af47c61b39b0c46a25213f7a323108, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1901,7 +1901,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1630679551
 MonoBehaviour:
@@ -2380,8 +2380,8 @@ Canvas:
   m_GameObject: {fileID: 1915842437}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
-  m_Camera: {fileID: 0}
+  m_RenderMode: 0
+  m_Camera: {fileID: 479889869}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -2389,7 +2389,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 1
-  m_SortingLayerID: 0
+  m_SortingLayerID: 325181457
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &1915842441
@@ -2414,7 +2414,7 @@ RectTransform:
   - {fileID: 36476353}
   - {fileID: 1827269405}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
