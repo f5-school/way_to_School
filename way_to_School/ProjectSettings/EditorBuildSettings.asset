@@ -9,15 +9,21 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/S1-Restaurant.unity
-    guid: 94896ac5822c8bd48bd4ff44cd59d58c
+    path: Assets/Scenes/S8-1LibraryScene.unity
+    guid: 6438beb9eb24ebe4596e714f67946bd4
   - enabled: 1
-    path: Assets/Scenes/S2-SJ_room.unity
-    guid: 183e72bf0b7f1e543a4c0dd0b462b9b8
+    path: Assets/Scenes/S8-2CleanStuScene.unity
+    guid: ee5b9fac742b62e4c96bb2a14554b8ec
   - enabled: 1
-    path: Assets/Scenes/S3-Classroom.unity
-    guid: 97e5821ab23c03d40ab52724e79a428f
+    path: Assets/Scenes/S8-3LibTeacherScene.unity
+    guid: 91eeb0a1e0554f745bc4864aa3ab664a
   - enabled: 1
-    path: Assets/Scenes/S4-WJ_Home.unity
-    guid: 7ba57100f6082dd428f5a68413955cfe
+    path: Assets/Scenes/S8-40BookScene.unity
+    guid: 666d655e7cec49c4eaabed40b844baeb
+  - enabled: 1
+    path: Assets/Scenes/S8-41BookScene.unity
+    guid: cd39ca87ce1b97743b8a9f03b391002a
+  - enabled: 1
+    path: Assets/Scenes/S9-LibraryToClassScene.unity
+    guid: c92dc44b201ff6d4ba8f9ec8102af90d
   m_configObjects: {}
