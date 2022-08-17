@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scripts\DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Ending.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ShowObject.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ZoomInStart.cs" />
