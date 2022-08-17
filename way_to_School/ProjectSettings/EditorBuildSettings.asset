@@ -53,4 +53,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S5-WJ_Room/S5_9_Zoom_Emptydrawers.unity
     guid: 175c232a20b8a434aa17f0ee107f9425
+  - enabled: 1
+    path: Assets/Scenes/S5-WJ_Room/S5_10_Zoom_Picture.unity
+    guid: c58327bf387004f33a2958fcad580096
+  - enabled: 1
+    path: Assets/Scenes/S5-WJ_Room/S5_10_Zoom_Seconddrawers.unity
+    guid: e61fe9599cad34435970b5eb4bf563e0
   m_configObjects: {}
