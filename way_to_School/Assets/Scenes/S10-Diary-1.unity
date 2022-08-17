@@ -296,7 +296,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.38283956}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 197, y: -0.0000076294}
+  m_AnchoredPosition: {x: 197, y: -0.000015258789}
   m_SizeDelta: {x: 343.1229, y: 328.3392}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1304803036
@@ -648,7 +648,7 @@ GameObject:
   - component: {fileID: 1799727082}
   - component: {fileID: 1799727081}
   m_Layer: 5
-  m_Name: DiaryBtn
+  m_Name: CardBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -671,8 +671,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 613.9854, y: 250.51134}
-  m_SizeDelta: {x: 255.6492, y: 69.0944}
+  m_AnchoredPosition: {x: 554.0843, y: 192.28383}
+  m_SizeDelta: {x: 92.4554, y: 138.717}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1799727081
 MonoBehaviour:
@@ -763,7 +763,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3b42bac62f4896b4c89ef10fd2d94d8e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e5937d97f21d5224aa1a8d74a56a958c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
