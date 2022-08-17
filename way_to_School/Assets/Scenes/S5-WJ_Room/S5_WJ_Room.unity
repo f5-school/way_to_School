@@ -164,9 +164,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 149752655}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91871dad3ce3a4eb8b98a129d2a13c08, type: 3}
+  m_Script: {fileID: 11500000, guid: 7f424c54bf53a40b8845aba483e6e8b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  info:
+    names: []
+    sprites_sujeong: []
+    sprites_other: []
+    open_sj: 
+    open_other: 
+    sentences: []
+  system: {fileID: 1732605789}
+  anim_nextSpot: {fileID: 1203744213}
 --- !u!1 &168833393
 GameObject:
   m_ObjectHideFlags: 0
@@ -1262,6 +1271,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c03bfbe00bc24c089e5fb0f8b4e117c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Click_Somewhere: {fileID: 0}
 --- !u!4 &989879570
 Transform:
   m_ObjectHideFlags: 0

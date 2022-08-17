@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class S5_Click : MonoBehaviour
 {
+    public GameObject Click_Somewhere;
     public void SceneChange1()
     {
         SceneManager.LoadScene("S5_1_Zoom_Poster");
