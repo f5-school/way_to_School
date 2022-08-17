@@ -1550,3 +1550,46 @@ Received Import Request.
   path: Assets/Scenes/S5-WJ_Room/S5_10_Zoom_Picture.unity
   artifactKey: Guid(c58327bf387004f33a2958fcad580096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/S5-WJ_Room/S5_10_Zoom_Picture.unity using Guid(c58327bf387004f33a2958fcad580096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8fc66f92af85f224191ef30c8a8b62') in 0.001517 seconds 
+[usbmuxd] Attached: 17 00008110-000525C001A3801E
+========================================================================
+Received Import Request.
+  Time since last request: 817.069785 seconds.
+  path: Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity
+  artifactKey: Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity using Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d108e52a9d0fb80c4da2ac5d6f037f') in 0.001988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.488663 seconds.
+  path: Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity
+  artifactKey: Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity using Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c2863972d92579a666f52ca64ad802') in 0.001213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.486528 seconds.
+  path: Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity
+  artifactKey: Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity using Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe3761dc59148ab593ed32d2af9b60d') in 0.001551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.892437 seconds.
+  path: Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity
+  artifactKey: Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity using Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edcc8fa03f163f2225d4bbaa05988849') in 0.001203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.360619 seconds.
+  path: Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity
+  artifactKey: Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity using Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0e83049e4de5b292d36576eeda8064') in 0.001480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.854896 seconds.
+  path: Assets/Scenes/S5-WJ_Room/S5_2_Zoom_Artwork.unity
+  artifactKey: Guid(54305a46d012c48bd87da799c9e3abb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/S5-WJ_Room/S5_2_Zoom_Artwork.unity using Guid(54305a46d012c48bd87da799c9e3abb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554952c04679be7b8fd68a25ac84f85b') in 0.001305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 123.763359 seconds.
+  path: Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity
+  artifactKey: Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/S5-WJ_Room/S5_11_Zoom_Com3.unity using Guid(6e5087e947f1d4beab400afb05f192aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63e0ade81f5624bfea45baff1875f86') in 0.001785 seconds 
