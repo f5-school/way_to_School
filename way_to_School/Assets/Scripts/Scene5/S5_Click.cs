@@ -53,6 +53,13 @@ public class S5_Click : MonoBehaviour
     public void SceneChange11()
     {
         SceneManager.LoadScene("S5_10_Zoom_Picture");
+
+    }
+
+    public void SceneChange12()
+    {
+        SceneManager.LoadScene("S5_10_Zoom_Seconddrawers");
+
     }
 
     // Start is called before the first frame update

@@ -671,7 +671,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 989879569}
         m_TargetAssemblyTypeName: S5_Click, Assembly-CSharp
-        m_MethodName: SceneChange2
+        m_MethodName: SceneChange3
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
