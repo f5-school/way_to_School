@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S4-WJ_Home.unity
     guid: 7ba57100f6082dd428f5a68413955cfe
+  - enabled: 1
+    path: Assets/Scenes/S6-Classroom.unity
+    guid: 0ada6a06480635f469d83e5abe6673e8
+  - enabled: 1
+    path: Assets/Scenes/S6_1-Locker.unity
+    guid: 4db0da57abfec894aaf77928878248da
+  - enabled: 1
+    path: Assets/Scenes/S6_1a-BullyMemo.unity
+    guid: 078163d1b430eec4b97e2fd64ddd8304
+  - enabled: 1
+    path: Assets/Scenes/S6_1b-GreenNote.unity
+    guid: f04c1bb1f753e844986434dcb0e58122
+  - enabled: 1
+    path: Assets/Scenes/S6_2-Desk.unity
+    guid: 31489fbd842e1de44b39abf6fb51cd46
   m_configObjects: {}
