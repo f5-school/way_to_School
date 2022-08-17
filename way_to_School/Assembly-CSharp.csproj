@@ -81,6 +81,16 @@
     <Compile Include="Assets\Scripts\Inventory\Slot.cs" />
     <Compile Include="Assets\Scripts\Inventory\InventoryUI.cs" />
     <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Scene12_HiddenEnding\S12_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene12_HiddenEnding\S12_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene12_HiddenEndingCon\S12HE_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene12_HiddenEndingCon\S12HE_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene13_NowSJRoom\S13_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene13_NowSJRoom\S13_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene13_NowSJRoom\S13_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Scene14_CapusCafeteria\S14_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene14_CapusCafeteria\S14_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene14_CapusCafeteria\S14_DialogueTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

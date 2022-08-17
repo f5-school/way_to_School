@@ -26,4 +26,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S9-LibraryToClassScene.unity
     guid: c92dc44b201ff6d4ba8f9ec8102af90d
+  - enabled: 1
+    path: Assets/Scenes/S12-HiddenEnding.unity
+    guid: 3d1e1cafaa077f54c85fe46ea1054bcf
+  - enabled: 1
+    path: Assets/Scenes/S12-HiddenEndingCon.unity
+    guid: 14558ef61abb44242a5806abde5f1a1f
+  - enabled: 1
+    path: Assets/Scenes/S13-NowSJRoom.unity
+    guid: fa27e1060ce1f604fa88352b24efc0ad
+  - enabled: 1
+    path: Assets/Scenes/S14-CampusCafeteria.unity
+    guid: dbadc77462acdc64fa801304ec15c6a4
   m_configObjects: {}
