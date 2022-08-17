@@ -402,7 +402,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -583,7 +583,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 46f6566a222f9654c8b98e0d3f0ea1e7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1104,17 +1104,17 @@ MonoBehaviour:
     - "\uC218\uC815"
     - "\uB2F4\uC784\uC120\uC0DD\uB2D8"
     sprites_sujeong:
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
     sprites_other:
     - {fileID: 21300000, guid: 46f6566a222f9654c8b98e0d3f0ea1e7, type: 3}
     - {fileID: 21300000, guid: 46f6566a222f9654c8b98e0d3f0ea1e7, type: 3}
