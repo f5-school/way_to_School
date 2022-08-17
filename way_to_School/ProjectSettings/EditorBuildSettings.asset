@@ -38,4 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S10-Card.unity
     guid: 3c5139c9666dc29459a6283d52bce8fd
+  - enabled: 1
+    path: Assets/Scenes/S0-StartMenu.unity
+    guid: 39b8e997460436c4dbf4db14a9aeaf06
   m_configObjects: {}

@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene3\S3_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\ExitBtn.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
