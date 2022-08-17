@@ -56,21 +56,32 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Scene6\S6_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Scene3\S3_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Dialogue.cs" />
+    <Compile Include="Assets\Scripts\Scene2\S2_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_ENDflag.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_GetItem.cs" />
+    <Compile Include="Assets\Scripts\Scene4\S4_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene4\S4_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_LockerOpen.cs" />
+    <Compile Include="Assets\Scripts\Scene2\S2_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\DialogueStart.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem.cs" />
-    <Compile Include="Assets\Scripts\Scene1\S1_DialogueSystem.cs" />
-    <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
-    <Compile Include="Assets\Scripts\Scene2\S2_DialogueStart.cs" />
-    <Compile Include="Assets\Scripts\Scene2\S2_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueTrigger.cs" />
-    <Compile Include="Assets\Scripts\Scene3\S3_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene1\S1_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_ShowObject.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_ZoomInStart.cs" />
     <Compile Include="Assets\Scripts\Scene3\S3_DialogueStart.cs" />
-    <Compile Include="Assets\Scripts\Scene4\S4_DialogueStart.cs" />
-    <Compile Include="Assets\Scripts\Scene4\S4_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_LightController.cs" />
+    <Compile Include="Assets\Scripts\Scene6\S6_ClickWhat.cs" />
+    <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -336,6 +347,12 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Android.Types">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Android.Gradle">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
