@@ -9,7 +9,7 @@ public class S14_DialogueStart : MonoBehaviour
 
 	public S14_DialogueSystem system;
 
-	public Animator TV;
+	public Animator TV, together;
 
 	// Start is called before the first frame update
 	void Start() {
@@ -21,5 +21,10 @@ public class S14_DialogueStart : MonoBehaviour
 		if (system.finishedCount == 1) {
 			TV.SetBool("isOpen", true);
 		}
+		if (system.finishedCount == 2) {
+			TV.SetBool("isOpen", false);
+			together.SetBool("isOpen", true);
+		}
+		
 	}
 }

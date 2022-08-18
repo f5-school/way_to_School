@@ -25,7 +25,7 @@ public class S9_DialogueStart : MonoBehaviour
 
 		if (system.finishedCount == 1) {
 			anim_mari.SetBool("isOpen", false);
-			card5.SetBool("isOpen", true);       
+			card5.SetBool("isOpen", true);
 		}
 		
 		if (system.finishedCount == 2) {
