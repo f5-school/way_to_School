@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/S11-Hideout.unity
+    guid: e10bf5b7d42f20645ace4b121947a0fa
+  - enabled: 1
+    path: Assets/Scenes/S11_1-Waterspout.unity
+    guid: c6a43eedc7ba4ad47b0eceb6ceaa57ec
+  - enabled: 1
+    path: Assets/Scenes/S11_2-WoodenBox.unity
+    guid: 8b87fcb99175b2d42963942b82149169
+  - enabled: 1
+    path: Assets/Scenes/S11_3-Elec.unity
+    guid: cf2db026b810b01439e95d0bbe617dd3
+  - enabled: 1
+    path: Assets/Scenes/S11_4-Computer.unity
+    guid: ccddab424de49234d99e9e0b16b5da38
+  - enabled: 1
+    path: Assets/Scenes/S11_5-Cellphone.unity
+    guid: 25e3fae0c54e97844baad488fd0cbb5f
+  - enabled: 1
+    path: Assets/Scenes/S11_6-Postbox.unity
+    guid: 4ab91093162edd8419f90dda260055e4
+  - enabled: 1
+    path: Assets/Scenes/S1-Restaurant.unity
+    guid: 94896ac5822c8bd48bd4ff44cd59d58c
+  - enabled: 1
+    path: Assets/Scenes/S2-SJ_room.unity
+    guid: 183e72bf0b7f1e543a4c0dd0b462b9b8
+  - enabled: 1
+    path: Assets/Scenes/S3-Classroom.unity
+    guid: 97e5821ab23c03d40ab52724e79a428f
+  - enabled: 1
+    path: Assets/Scenes/S4-WJ_Home.unity
+    guid: 7ba57100f6082dd428f5a68413955cfe
+  - enabled: 1
+    path: Assets/Scenes/S5-WJ_room.unity
+    guid: 2c1fd92a94937d7468c759f0b20a2974
+  - enabled: 1
+    path: Assets/Scenes/S5_1-Drawer.unity
+    guid: 82d5f1fd17b399b46839aa1a6bb61c7a
+  - enabled: 1
+    path: Assets/Scenes/S5_2-Computer.unity
+    guid: e2ba18acd09232d4ba9ad25113396f76
+  - enabled: 1
+    path: Assets/Scenes/S5_3-Calender.unity
+    guid: 3bb4980b1891b874c9d08a7ffd17bd22
+  - enabled: 1
+    path: Assets/Scenes/S6-Classroom.unity
+    guid: 0ada6a06480635f469d83e5abe6673e8
+  - enabled: 1
+    path: Assets/Scenes/S6_1-Locker.unity
+    guid: 4db0da57abfec894aaf77928878248da
+  - enabled: 1
+    path: Assets/Scenes/S6_1a-BullyMemo.unity
+    guid: 078163d1b430eec4b97e2fd64ddd8304
+  - enabled: 1
+    path: Assets/Scenes/S6_1b-GreenNote.unity
+    guid: f04c1bb1f753e844986434dcb0e58122
+  - enabled: 1
+    path: Assets/Scenes/S6_2-Desk.unity
+    guid: 31489fbd842e1de44b39abf6fb51cd46
+  - enabled: 1
+    path: Assets/Scenes/S10-Diary-1.unity
+    guid: a338c0bda4b07a049a8d6588a120e0be
+  - enabled: 1
+    path: Assets/Scenes/S10-Card.unity
+    guid: 3c5139c9666dc29459a6283d52bce8fd
+  - enabled: 1
+    path: Assets/Scenes/S10-Diary-2(1).unity
+    guid: 93a7de785f46c6043b60dd6f39d56dda
+  - enabled: 1
+    path: Assets/Scenes/S10-Diary-2(2).unity
+    guid: b456b239550be1a44b62a601e098806d
+  - enabled: 1
+    path: Assets/Keypad/S10-Keypad.unity
+    guid: b22e3d54b9d644efa9ba4bf9bf651a44
+  - enabled: 1
+    path: Assets/Scenes/card.unity
+    guid: f216e6e55ae241044aafac8586dc1465
+  - enabled: 1
+    path: Assets/Scenes/EndingCredits.unity
+    guid: 1c4d4278c676066439a984ee9ce21ce3
+  - enabled: 1
+    path: Assets/Scenes/S0-StartMenu.unity
+    guid: 39b8e997460436c4dbf4db14a9aeaf06
+  - enabled: 1
+    path: Assets/Scenes/S7-Hallway.unity
+    guid: 0a40a4a6043a01545ae0790cccaca7bd
+  - enabled: 1
+    path: Assets/Scenes/S8-1LibraryScene.unity
+    guid: 6438beb9eb24ebe4596e714f67946bd4
+  - enabled: 1
+    path: Assets/Scenes/S8-2CleanStuScene.unity
+    guid: ee5b9fac742b62e4c96bb2a14554b8ec
+  - enabled: 1
+    path: Assets/Scenes/S8-3LibTeacherScene.unity
+    guid: 91eeb0a1e0554f745bc4864aa3ab664a
+  - enabled: 1
+    path: Assets/Scenes/S8-40BookScene.unity
+    guid: 666d655e7cec49c4eaabed40b844baeb
+  - enabled: 1
+    path: Assets/Scenes/S8-41BookScene.unity
+    guid: cd39ca87ce1b97743b8a9f03b391002a
+  - enabled: 1
+    path: Assets/Scenes/S9-LibraryToClassScene.unity
+    guid: c92dc44b201ff6d4ba8f9ec8102af90d
+  - enabled: 1
+    path: Assets/Scenes/S12-HiddenEnding.unity
+    guid: 3d1e1cafaa077f54c85fe46ea1054bcf
+  - enabled: 1
+    path: Assets/Scenes/S12-HiddenEndingCon.unity
+    guid: 14558ef61abb44242a5806abde5f1a1f
+  - enabled: 1
+    path: Assets/Scenes/S13-NowSJRoom.unity
+    guid: fa27e1060ce1f604fa88352b24efc0ad
+  - enabled: 1
+    path: Assets/Scenes/S14-CampusCafeteria.unity
+    guid: dbadc77462acdc64fa801304ec15c6a4
+  - enabled: 1
+    path: Assets/Scenes/S10-HideoutDecision.unity
+    guid: 50d81ab0885cc6a40912b23d5ed630ec
+  m_configObjects: {}
