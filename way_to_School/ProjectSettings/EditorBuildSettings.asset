@@ -9,54 +9,54 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/S1-Restaurant.unity
+    path: Assets/Animations/Scene2/Scenes/S1-Restaurant.unity
     guid: 94896ac5822c8bd48bd4ff44cd59d58c
   - enabled: 1
-    path: Assets/Scenes/S2-SJ_room.unity
+    path: Assets/Animations/Scene2/Scenes/S2-SJ_room.unity
     guid: 183e72bf0b7f1e543a4c0dd0b462b9b8
   - enabled: 1
-    path: Assets/Scenes/S3-Classroom.unity
+    path: Assets/Animations/Scene2/Scenes/S3-Classroom.unity
     guid: 97e5821ab23c03d40ab52724e79a428f
   - enabled: 1
-    path: Assets/Scenes/S4-WJ_Home.unity
+    path: Assets/Animations/Scene2/Scenes/S4-WJ_Home.unity
     guid: 7ba57100f6082dd428f5a68413955cfe
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_WJ_Room.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_WJ_Room.unity
     guid: 471e67358461044af9b20dd6ada9c1f6
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_1_Zoom_Poster.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_1_Zoom_Poster.unity
     guid: 0c2385db9ee844a698504bc04691c404
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_2_Zoom_Artwork.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_2_Zoom_Artwork.unity
     guid: 54305a46d012c48bd87da799c9e3abb7
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_3_Zoom_Com1.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_3_Zoom_Com1.unity
     guid: adc085b5c35de4992a189d0b4eb6d529
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_4_Zoom_Com2.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_4_Zoom_Com2.unity
     guid: 70914d7c0cbd0479599fb00b62bfcf71
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_5_Zoom_Calender.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_5_Zoom_Calender.unity
     guid: 80e185da28990493c8e497ec338c8bf5
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_6_0_Zoom_Carpet.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_6_0_Zoom_Carpet.unity
     guid: a2810cffa35174dc9bb0b103b24ef75a
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_6_1_Zoom_Findkey.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_6_1_Zoom_Findkey.unity
     guid: 02f3b330c94974e1f8c092c3be7af1c1
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_7_Zoom_Drawers.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_7_Zoom_Drawers.unity
     guid: 46944ef4e6eab4f509bb2c96af20618c
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_8_Zoom_Opemdrawers.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_8_Zoom_Opemdrawers.unity
     guid: 464fa61d40222407192c36c4fa1275d6
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_9_Zoom_Emptydrawers.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_9_Zoom_Emptydrawers.unity
     guid: 175c232a20b8a434aa17f0ee107f9425
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_10_Zoom_Picture.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_10_Zoom_Picture.unity
     guid: c58327bf387004f33a2958fcad580096
   - enabled: 1
-    path: Assets/Scenes/S5-WJ_Room/S5_10_Zoom_Seconddrawers.unity
+    path: Assets/Animations/Scene2/Scenes/S5-WJ_Room/S5_10_Zoom_Seconddrawers.unity
     guid: e61fe9599cad34435970b5eb4bf563e0
   m_configObjects: {}
