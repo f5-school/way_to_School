@@ -558,15 +558,15 @@ MonoBehaviour:
     - "\uC218\uC815"
     - "\uC218\uC815"
     sprites_sujeong:
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
     sprites_other:
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
     open_sj: 00000000
     open_other: 00000000
     sentences:
@@ -674,7 +674,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 5747620c1405ec64ebcb1158a947c767, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -855,7 +855,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1316,9 +1316,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
+  m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 0
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1553,15 +1553,15 @@ MonoBehaviour:
     - "\uC218\uC815"
     - "\uC218\uC815"
     sprites_sujeong:
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
     sprites_other:
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
     open_sj: 00010101
     open_other: 00000000
     sentences:
@@ -2119,11 +2119,11 @@ MonoBehaviour:
     - 
     - "\uC218\uC815"
     sprites_sujeong:
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
     sprites_other:
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
-    - {fileID: 21300000, guid: de86aa242a0001647b9787c51c5cfa4c, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
+    - {fileID: 21300000, guid: 973fd29221f1ded409407661921dbda6, type: 3}
     open_sj: 0000
     open_other: 0000
     sentences:
