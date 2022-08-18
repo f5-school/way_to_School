@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Scene6\S6_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Dialogue.cs" />
     <Compile Include="Assets\Scripts\Scene14_CapusCafeteria\S14_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene7\S7_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene8_LibTeacher\S8T_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Passcode.cs" />
     <Compile Include="Assets\Scripts\Scene12_HiddenEnding\S12_DialogueSystem.cs" />
@@ -100,6 +101,7 @@
     <Compile Include="Assets\Scripts\Inventory\Item.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene7\S7_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene8_Book Shelf\S8BS_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene14_CapusCafeteria\S14_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene8_LibTeacher\S8T_DialogueStart.cs" />
@@ -118,8 +120,6 @@
     <Compile Include="Assets\Scripts\Inventory\InventoryUI.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ClickWhat.cs" />
     <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
-    <Compile Include="Assets\Scripts\Scene7\S7_DialogueStart.cs" />
-    <Compile Include="Assets\Scripts\Scene7\S7_DialogueSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
