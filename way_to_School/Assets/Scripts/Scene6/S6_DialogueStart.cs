@@ -29,7 +29,7 @@ public class S6_DialogueStart : MonoBehaviour
 
 			anim_mari.SetBool("isOpen", true);
 
-			var flag = FindObjectOfType<S6_ENDflag>();
+			var flag = FindObjectOfType<S11_ENDflag>();
 			if (flag.isEND)
             {
 				anim_nextSpot.SetBool("isOpen", true);

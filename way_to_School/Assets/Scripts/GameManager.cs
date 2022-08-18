@@ -1,40 +1,53 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    /* // ½Ì±ÛÅæ //
-     * instance¶ó´Â º¯¼ö¸¦ staticÀ¸·Î ¼±¾ğÀ» ÇÏ¿© ´Ù¸¥ ¿ÀºêÁ§Æ® ¾ÈÀÇ ½ºÅ©¸³Æ®¿¡¼­µµ instance¸¦ ºÒ·¯¿Ã ¼ö ÀÖ°Ô ÇÕ´Ï´Ù 
+    /* // ì‹±ê¸€í†¤ //
+     * instanceë¼ëŠ” ë³€ìˆ˜ë¥¼ staticìœ¼ë¡œ ì„ ì–¸ì„ í•˜ì—¬ ë‹¤ë¥¸ ì˜¤ë¸Œì íŠ¸ ì•ˆì˜ ìŠ¤í¬ë¦½íŠ¸ì—ì„œë„ instanceë¥¼ ë¶ˆëŸ¬ì˜¬ ìˆ˜ ìˆê²Œ í•©ë‹ˆë‹¤ 
      */
     public static GameManager instance = null;
 
     private void Awake()
     {
-        if (instance == null) // instance°¡ null. Áï, ½Ã½ºÅÛ»ó¿¡ Á¸ÀçÇÏ°í ÀÖÁö ¾ÊÀ»¶§
+        if (instance == null) // instanceê°€ null. ì¦‰, ì‹œìŠ¤í…œìƒì— ì¡´ì¬í•˜ê³  ìˆì§€ ì•Šì„ë•Œ
         {
-            instance = this; // ³»ÀÚ½ÅÀ» instance·Î ³Ö¾îÁİ´Ï´Ù.
-            DontDestroyOnLoad(gameObject); // OnLoad(¾ÀÀÌ ·Îµå µÇ¾úÀ»¶§) ÀÚ½ÅÀ» ÆÄ±«ÇÏÁö ¾Ê°í À¯Áö
+            instance = this; // ë‚´ìì‹ ì„ instanceë¡œ ë„£ì–´ì¤ë‹ˆë‹¤.
+            DontDestroyOnLoad(gameObject); // OnLoad(ì”¬ì´ ë¡œë“œ ë˜ì—ˆì„ë•Œ) ìì‹ ì„ íŒŒê´´í•˜ì§€ ì•Šê³  ìœ ì§€
         }
         else
         {
-            if (instance != this) // instance°¡ ³»°¡ ¾Æ´Ï¶ó¸é ÀÌ¹Ì instance°¡ ÇÏ³ª Á¸ÀçÇÏ°í ÀÖ´Ù´Â ÀÇ¹Ì
-                Destroy(this.gameObject); // µÑ ÀÌ»ó Á¸ÀçÇÏ¸é ¾ÈµÇ´Â °´Ã¼ÀÌ´Ï ¹æ±İ AWakeµÈ ÀÚ½ÅÀ» »èÁ¦
+            if (instance != this) // instanceê°€ ë‚´ê°€ ì•„ë‹ˆë¼ë©´ ì´ë¯¸ instanceê°€ í•˜ë‚˜ ì¡´ì¬í•˜ê³  ìˆë‹¤ëŠ” ì˜ë¯¸
+                Destroy(this.gameObject); // ë‘˜ ì´ìƒ ì¡´ì¬í•˜ë©´ ì•ˆë˜ëŠ” ê°ì²´ì´ë‹ˆ ë°©ê¸ˆ AWakeëœ ìì‹ ì„ ì‚­ì œ
         }
     }
 
-    // [Scene6 ÁøÇàµµ Ã¼Å©]
-    // °¢ ¿ä¼Ò¸¦ ¸ğµÎ ÁøÇàÇß´ÂÁö¸¦ ¸ÕÀú ÃÊ±âÈ­ÇØµÎ°í °¢ ¿ä¼Ò¸¦ ÁøÇàÇßÀ» °æ¿ì true·Î º¯°æÇÔ
-    // ÇĞ»ı1,2
+    // [Scene6 ì§„í–‰ë„ ì²´í¬]
+    // ê° ìš”ì†Œë¥¼ ëª¨ë‘ ì§„í–‰í–ˆëŠ”ì§€ë¥¼ ë¨¼ì € ì´ˆê¸°í™”í•´ë‘ê³  ê° ìš”ì†Œë¥¼ ì§„í–‰í–ˆì„ ê²½ìš° trueë¡œ ë³€ê²½í•¨
+    // í•™ìƒ1,2
     public bool student1 = false;
     public bool student2 = false;
     
-    // Locker ¿ä¼Ò
+    // Locker ìš”ì†Œ
     public bool bullyMemo = false;
     public bool greenNote = false;
     public bool library_Spec = false;
     public bool postcard3 = false;
 
-    // Desk ¿ä¼Ò
+    // Desk ìš”ì†Œ
     public bool postcard2 = false;
+
+
+    // [Scene11 ì§„í–‰ë„ ì²´í¬]
+    // ê° ìš”ì†Œë¥¼ ëª¨ë‘ ì§„í–‰í–ˆëŠ”ì§€ë¥¼ ë¨¼ì € ì´ˆê¸°í™”í•´ë‘ê³  ê° ìš”ì†Œë¥¼ ì§„í–‰í–ˆì„ ê²½ìš° trueë¡œ ë³€ê²½í•¨
+
+    public bool isFirstChat = true; // ìš´ì •ì´ë‘ ì²˜ìŒì— ëŒ€í™”í•˜ëŠ” ê²ƒ ê´€ë ¨
+
+    public bool ElecConnect = false;
+    public bool Computer = false;
+    public bool Diagnosis = false;
+    public bool HurtImage = false;
+    public bool Receipt = false;
+    public bool mp3 = false;
 }
