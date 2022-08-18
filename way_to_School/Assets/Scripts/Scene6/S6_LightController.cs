@@ -20,12 +20,10 @@ public class S6_LightController : MonoBehaviour
     {
         SchoolDesk.sprite = SchooolDesk_light;
         Postcard2.SetActive(true);
-        // 손전등 인벤토리에 넣는 코드 필요.
     }
 
     public void getCard()
     {
-        // 카드 인벤토리에 넣는 코드 필요함.
-        Postcard2.SetActive(false); // 사라지는 것 임시로 넣음
+        Postcard2.SetActive(false);
     }
 }

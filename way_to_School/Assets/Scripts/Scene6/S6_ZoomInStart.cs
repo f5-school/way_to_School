@@ -1,4 +1,4 @@
-// Scene6 - 대화창 시작 & 전체 진행에 관련된 코드
+// Scene6 - 오브젝트 Zoom-in 이후 대화창 시작에 관련된 코드
 using System.Collections; 
 using System.Collections.Generic;
 using UnityEngine;
