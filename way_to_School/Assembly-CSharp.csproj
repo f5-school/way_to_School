@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>9.0</LangVersion>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -53,34 +53,48 @@
     <UnityVersion>2021.3.6f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Scene6\S6_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\ExitBtn.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_DialogueStart_Cellphone.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_Elec.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\S10-Card\CardSpace1.cs" />
     <Compile Include="Assets\Scripts\Scene3\S3_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_ClickWhat.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Dialogue.cs" />
     <Compile Include="Assets\Scripts\Passcode.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_Waterspout.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_DialogueSystem_Cellphone.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ENDflag.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\S10-Card\CardSlot.cs" />
     <Compile Include="Assets\Keypad\Script\Playsound.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_ENDflag.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_DialogueTrigger_Cellphone.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_GetItem.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_ZoomDialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene4\S4_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene4\S4_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_LockerOpen.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_DriverController.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\S10-Card\DragDrop.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\DialogueStart.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_ZoomIn.cs" />
+    <Compile Include="Assets\Scripts\Scene11\S11_WoodenBoxObject.cs" />
     <Compile Include="Assets\Scripts\Ending.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ShowObject.cs" />
@@ -89,6 +103,18 @@
     <Compile Include="Assets\Scripts\Scene6\S6_LightController.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ClickWhat.cs" />
     <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ClickWhat.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ZoomInStart.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ENDflag.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueTriggerDrawer.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueSystemDrawer.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ZoomInStartCom.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueSystemCom.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueTriggerCom.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ZoomInStartDrawer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -354,12 +380,6 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
