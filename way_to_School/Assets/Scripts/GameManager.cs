@@ -23,6 +23,13 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    // [Scene5 진행도 체크]
+    // 각 요소를 모두 진행했는지를 먼저 초기화해두고 각 요소를 진행했을 경우 true로 변경함
+    public bool passFirst = false;
+    public bool drawer = false;
+    public bool s5_computer = false;
+    public bool calender = false;
+
     // [Scene6 진행도 체크]
     // 각 요소를 모두 진행했는지를 먼저 초기화해두고 각 요소를 진행했을 경우 true로 변경함
     // 학생1,2
