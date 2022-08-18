@@ -1674,7 +1674,7 @@ MonoBehaviour:
   anim_schoolName: {fileID: 1526190443}
   anim_nextSpot: {fileID: 1036290902}
   background_image: {fileID: 1697554349}
-  wayToSchool: {fileID: 21300000, guid: e9efb24fb1065454fa81d948b33a75f3, type: 3}
+  wayToSchool: {fileID: 21300000, guid: a68291bed549d284cbcae0f8d553115d, type: 3}
 --- !u!1 &1697554348
 GameObject:
   m_ObjectHideFlags: 0
@@ -1733,7 +1733,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2214422f28ac5834195cd3410d40f596, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ab5cad112cd56b64fa94085390ef91c6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1752,8 +1752,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1697554348}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0091, y: 0.1484, z: 0}
-  m_LocalScale: {x: 2.8567011, y: 2.013704, z: 1}
+  m_LocalPosition: {x: 0.1, y: -0.0938, z: 0}
+  m_LocalScale: {x: 1.2887475, y: 0.97212, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

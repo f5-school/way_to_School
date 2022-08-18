@@ -182,7 +182,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: e83324067bd2dde49a895949362af7c3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -803,7 +803,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 04b7dd3e8e3afb44186cb969ac355e27, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1517,6 +1517,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3d5c4ac2444d64459138cd59f652932, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  passFirst: 0
+  drawer: 0
+  s5_computer: 0
+  calender: 0
   student1: 0
   student2: 0
   bullyMemo: 0

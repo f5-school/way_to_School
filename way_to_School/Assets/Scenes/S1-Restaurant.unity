@@ -1673,7 +1673,7 @@ MonoBehaviour:
   anim_smartphone: {fileID: 1526190440}
   anim_nextSpot: {fileID: 1614251023}
   background_image: {fileID: 1697554349}
-  sj_current_room: {fileID: 21300000, guid: e7ae768240ab89246b2009f7ed816c5e, type: 3}
+  sj_current_room: {fileID: 21300000, guid: 9fb0bc1838fc0a440b4787a7a4f307af, type: 3}
 --- !u!1 &1697554348
 GameObject:
   m_ObjectHideFlags: 0
@@ -1732,7 +1732,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c87316e124f0f4b49962f4f323ca2741, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fbdc34708ebd7f7418e1306e187511c6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1751,8 +1751,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1697554348}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.2463, y: -0.0445, z: 0}
-  m_LocalScale: {x: 3.660801, y: 2.074914, z: 1}
+  m_LocalPosition: {x: -0.02, y: -0.04, z: 0}
+  m_LocalScale: {x: 1.2699627, y: 0.95542914, z: 1.0111}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

@@ -65,13 +65,18 @@
     <Compile Include="Assets\Scripts\Scene11\S11_Elec.cs" />
     <Compile Include="Assets\Scripts\Scene11\S11_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene8_Library\S8_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\S10-Card\CardSpace1.cs" />
     <Compile Include="Assets\Scripts\Scene3\S3_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene11\S11_ClickWhat.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ZoomInStart.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ENDflag.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueSystemCom.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Dialogue.cs" />
     <Compile Include="Assets\Scripts\Scene14_CapusCafeteria\S14_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene7\S7_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ClickWhat.cs" />
     <Compile Include="Assets\Scripts\Scene8_LibTeacher\S8T_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Passcode.cs" />
     <Compile Include="Assets\Scripts\Scene12_HiddenEnding\S12_DialogueSystem.cs" />
@@ -82,6 +87,9 @@
     <Compile Include="Assets\Scripts\Scene6\S6_ENDflag.cs" />
     <Compile Include="Assets\Scripts\Scene8_Library\S8_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene12_HiddenEndingCon\S12HE_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueTriggerCom.cs" />
+    <Compile Include="Assets\Scripts\Scene10\S10D_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ZoomInStartDrawer.cs" />
     <Compile Include="Assets\Scripts\Scene13_NowSJRoom\S13_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\S10-Card\CardSlot.cs" />
@@ -99,16 +107,20 @@
     <Compile Include="Assets\Scripts\Scene9\S9_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Scene8_CleanStu\S8C_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene1\S1_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Scene10\S10D_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene8_LibTeacher\S8T_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_LockerOpen.cs" />
     <Compile Include="Assets\Scripts\Scene11\S11_DriverController.cs" />
     <Compile Include="Assets\Scripts\Scene11\S11_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueTriggerDrawer.cs" />
     <Compile Include="Assets\Scripts\Scene14_CapusCafeteria\S14_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Scene8_Book Shelf\S8BS_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\S10-Card\DragDrop.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Inventory\Item.cs" />
     <Compile Include="Assets\Scripts\Scene2\S2_DialogueTrigger.cs" />
@@ -126,17 +138,17 @@
     <Compile Include="Assets\Scripts\Scene6\S6_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene9\S9_DialogueStart.cs" />
     <Compile Include="Assets\Scripts\Scene13_NowSJRoom\S13_DialogueSystem.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_ZoomInStartCom.cs" />
     <Compile Include="Assets\Scripts\Scene9\S9_DialogueSystem.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ShowObject.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ZoomInStart.cs" />
     <Compile Include="Assets\Scripts\Inventory\Slot.cs" />
     <Compile Include="Assets\Scripts\Scene3\S3_DialogueStart.cs" />
+    <Compile Include="Assets\Scripts\Scene5\S5_DialogueSystemDrawer.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_LightController.cs" />
     <Compile Include="Assets\Scripts\Inventory\InventoryUI.cs" />
     <Compile Include="Assets\Scripts\Scene6\S6_ClickWhat.cs" />
     <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
-    <Compile Include="Assets\Scripts\Scene10\S10D_DialogueStart.cs" />
-    <Compile Include="Assets\Scripts\Scene10\S10D_DialogueSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -402,6 +414,12 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Android.Types">
+      <HintPath>D:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Android.Gradle">
+      <HintPath>D:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>

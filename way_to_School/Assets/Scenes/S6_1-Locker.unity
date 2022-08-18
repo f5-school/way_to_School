@@ -2254,8 +2254,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1697554348}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0647, y: 0.0178, z: 0}
-  m_LocalScale: {x: 3.9270444, y: 3.4108973, z: 1}
+  m_LocalPosition: {x: 0.0284, y: 0.0178, z: 0}
+  m_LocalScale: {x: 4.1864023, y: 3.4108973, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2438,6 +2438,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3d5c4ac2444d64459138cd59f652932, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  passFirst: 0
+  drawer: 0
+  s5_computer: 0
+  calender: 0
   student1: 0
   student2: 0
   bullyMemo: 0
