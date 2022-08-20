@@ -48,7 +48,7 @@
 <br>
 
 ## 🎥 게임 시연 영상 
-["학교 다녀오겠습니다" 시연 영상](https://youtu.be/gTXOO9l3kcs)
+["학교 다녀오겠습니다" 시연 영상](https://youtu.be/40JiF0SDOfw)
 
 
 ## 🙋 팀원
