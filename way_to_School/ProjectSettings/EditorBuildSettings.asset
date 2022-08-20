@@ -5,30 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/S11-Hideout.unity
-    guid: e10bf5b7d42f20645ace4b121947a0fa
-  - enabled: 1
-    path: Assets/Scenes/S11_1-Waterspout.unity
-    guid: c6a43eedc7ba4ad47b0eceb6ceaa57ec
-  - enabled: 1
-    path: Assets/Scenes/S11_2-WoodenBox.unity
-    guid: 8b87fcb99175b2d42963942b82149169
-  - enabled: 1
-    path: Assets/Scenes/S11_3-Elec.unity
-    guid: cf2db026b810b01439e95d0bbe617dd3
-  - enabled: 1
-    path: Assets/Scenes/S11_4-Computer.unity
-    guid: ccddab424de49234d99e9e0b16b5da38
-  - enabled: 1
-    path: Assets/Scenes/S11_5-Cellphone.unity
-    guid: 25e3fae0c54e97844baad488fd0cbb5f
-  - enabled: 1
-    path: Assets/Scenes/S11_6-Postbox.unity
-    guid: 4ab91093162edd8419f90dda260055e4
+    path: Assets/Scenes/S0-StartMenu.unity
+    guid: 39b8e997460436c4dbf4db14a9aeaf06
   - enabled: 1
     path: Assets/Scenes/S1-Restaurant.unity
     guid: 94896ac5822c8bd48bd4ff44cd59d58c
@@ -69,30 +48,6 @@ EditorBuildSettings:
     path: Assets/Scenes/S6_2-Desk.unity
     guid: 31489fbd842e1de44b39abf6fb51cd46
   - enabled: 1
-    path: Assets/Scenes/S10-Diary-1.unity
-    guid: a338c0bda4b07a049a8d6588a120e0be
-  - enabled: 1
-    path: Assets/Scenes/S10-Card.unity
-    guid: 3c5139c9666dc29459a6283d52bce8fd
-  - enabled: 1
-    path: Assets/Scenes/S10-Diary-2(1).unity
-    guid: 93a7de785f46c6043b60dd6f39d56dda
-  - enabled: 1
-    path: Assets/Scenes/S10-Diary-2(2).unity
-    guid: b456b239550be1a44b62a601e098806d
-  - enabled: 1
-    path: Assets/Keypad/S10-Keypad.unity
-    guid: b22e3d54b9d644efa9ba4bf9bf651a44
-  - enabled: 1
-    path: Assets/Scenes/card.unity
-    guid: f216e6e55ae241044aafac8586dc1465
-  - enabled: 1
-    path: Assets/Scenes/EndingCredits.unity
-    guid: 1c4d4278c676066439a984ee9ce21ce3
-  - enabled: 1
-    path: Assets/Scenes/S0-StartMenu.unity
-    guid: 39b8e997460436c4dbf4db14a9aeaf06
-  - enabled: 1
     path: Assets/Scenes/S7-Hallway.unity
     guid: 0a40a4a6043a01545ae0790cccaca7bd
   - enabled: 1
@@ -114,6 +69,45 @@ EditorBuildSettings:
     path: Assets/Scenes/S9-LibraryToClassScene.unity
     guid: c92dc44b201ff6d4ba8f9ec8102af90d
   - enabled: 1
+    path: Assets/Scenes/S10-Card.unity
+    guid: 3c5139c9666dc29459a6283d52bce8fd
+  - enabled: 1
+    path: Assets/Keypad/S10-Keypad.unity
+    guid: b22e3d54b9d644efa9ba4bf9bf651a44
+  - enabled: 1
+    path: Assets/Scenes/S10-Diary-1.unity
+    guid: a338c0bda4b07a049a8d6588a120e0be
+  - enabled: 1
+    path: Assets/Scenes/S10-Diary-2(1).unity
+    guid: 93a7de785f46c6043b60dd6f39d56dda
+  - enabled: 1
+    path: Assets/Scenes/S10-Diary-2(2).unity
+    guid: b456b239550be1a44b62a601e098806d
+  - enabled: 1
+    path: Assets/Scenes/S10-HideoutDecision.unity
+    guid: 50d81ab0885cc6a40912b23d5ed630ec
+  - enabled: 1
+    path: Assets/Scenes/S11-Hideout.unity
+    guid: e10bf5b7d42f20645ace4b121947a0fa
+  - enabled: 1
+    path: Assets/Scenes/S11_1-Waterspout.unity
+    guid: c6a43eedc7ba4ad47b0eceb6ceaa57ec
+  - enabled: 1
+    path: Assets/Scenes/S11_2-WoodenBox.unity
+    guid: 8b87fcb99175b2d42963942b82149169
+  - enabled: 1
+    path: Assets/Scenes/S11_3-Elec.unity
+    guid: cf2db026b810b01439e95d0bbe617dd3
+  - enabled: 1
+    path: Assets/Scenes/S11_4-Computer.unity
+    guid: ccddab424de49234d99e9e0b16b5da38
+  - enabled: 1
+    path: Assets/Scenes/S11_5-Cellphone.unity
+    guid: 25e3fae0c54e97844baad488fd0cbb5f
+  - enabled: 1
+    path: Assets/Scenes/S11_6-Postbox.unity
+    guid: 4ab91093162edd8419f90dda260055e4
+  - enabled: 1
     path: Assets/Scenes/S12-HiddenEnding.unity
     guid: 3d1e1cafaa077f54c85fe46ea1054bcf
   - enabled: 1
@@ -126,6 +120,9 @@ EditorBuildSettings:
     path: Assets/Scenes/S14-CampusCafeteria.unity
     guid: dbadc77462acdc64fa801304ec15c6a4
   - enabled: 1
-    path: Assets/Scenes/S10-HideoutDecision.unity
-    guid: 50d81ab0885cc6a40912b23d5ed630ec
+    path: Assets/Scenes/EndingCredits.unity
+    guid: 1c4d4278c676066439a984ee9ce21ce3
+  - enabled: 1
+    path: Assets/Scenes/card.unity
+    guid: f216e6e55ae241044aafac8586dc1465
   m_configObjects: {}

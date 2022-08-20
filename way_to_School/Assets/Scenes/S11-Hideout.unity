@@ -1904,11 +1904,11 @@ MonoBehaviour:
     - "\uC6B4\uC815"
     - "\uC218\uC815"
     sprites_sujeong:
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
-    - {fileID: 21300000, guid: 4145539aaabfa16498b2c7b842dffe17, type: 3}
+    - {fileID: 21300000, guid: 04b7dd3e8e3afb44186cb969ac355e27, type: 3}
+    - {fileID: 21300000, guid: 04b7dd3e8e3afb44186cb969ac355e27, type: 3}
+    - {fileID: 21300000, guid: 04b7dd3e8e3afb44186cb969ac355e27, type: 3}
+    - {fileID: 21300000, guid: 04b7dd3e8e3afb44186cb969ac355e27, type: 3}
+    - {fileID: 21300000, guid: 04b7dd3e8e3afb44186cb969ac355e27, type: 3}
     sprites_other:
     - {fileID: 21300000, guid: 55b7de45de93fb447aaa59d6556897a1, type: 3}
     - {fileID: 21300000, guid: 55b7de45de93fb447aaa59d6556897a1, type: 3}
