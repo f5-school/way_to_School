@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/87336788/185226005-148ddb36-0638-41b3-bff9-fe4551d568f4.png)
 
+팀 명 : F5
+
 프로젝트 주제 : 학교 폭력 예방 스토리 게임
 
 프로젝트 기간 : 2022년 5월 ~ 2022년 8월
